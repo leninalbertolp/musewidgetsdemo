@@ -1,0 +1,166 @@
+.version.politicas_de_cookie_demo2 /* version checker */
+{
+	color: #000007;
+	background-color: #2788A9;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 114px;
+	padding-bottom: 62px;
+}
+
+#u130-4
+{
+	z-index: 2;
+	min-height: 62px;
+	background-color: transparent;
+	line-height: 58px;
+	font-size: 48px;
+	color: #2A2828;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+}
+
+#u130-4-bw
+{
+	z-index: 2;
+	min-height: 62px;
+	height: 62px;
+}
+
+#pu142
+{
+	width: 0.01px;
+	margin-left: -63px;
+	margin-top: 43px;
+}
+
+#u142
+{
+	z-index: 89;
+	width: 50px;
+	min-height: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu131-4
+{
+	width: 0.01px;
+	padding-bottom: 1px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	margin-left: 63px;
+}
+
+#u131-4
+{
+	z-index: 6;
+	width: 940px;
+	min-height: 22px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #2A2828;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u132-79
+{
+	z-index: 10;
+	width: 920px;
+	min-height: 933px;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u132-2,#u132-3
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u132-7
+{
+	text-align: center;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u132-13
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u132-33
+{
+	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u132-26,#u132-29,#u132-32
+{
+	color: #2A2828;
+}
+
+#u132-39
+{
+	font-weight: 700;
+}
+
+#u132-8,#u132-10,#u132-11,#u132-14,#u132-16,#u132-17,#u132-19,#u132-20,#u132-22,#u132-23,#u132-25,#u132-34,#u132-36,#u132-37,#u132-41,#u132-43,#u132-44,#u132-48,#u132-50,#u132-52,#u132-54,#u132-55,#u132-57,#u132-62,#u132-63,#u132-66,#u132-69,#u132-72,#u132-75,#u132-76
+{
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

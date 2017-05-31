@@ -1,0 +1,96 @@
+.version.cookie /* version checker */
+{
+	color: #00000A;
+	background-color: #FF08CB;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 340px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 98px 20px 62px;
+}
+
+#u108-83
+{
+	z-index: 2;
+	width: 920px;
+	min-height: 911px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u108-2,#u108-3
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u108-8
+{
+	text-align: center;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u108-14
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u108-34
+{
+	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u108-27,#u108-30,#u108-33
+{
+	color: #2A2828;
+}
+
+#u108-40
+{
+	font-weight: 700;
+}
+
+#u108-9,#u108-11,#u108-12,#u108-15,#u108-17,#u108-18,#u108-20,#u108-21,#u108-23,#u108-24,#u108-26,#u108-35,#u108-37,#u108-38,#u108-42,#u108-44,#u108-45,#u108-49,#u108-51,#u108-53,#u108-55,#u108-56,#u108-58,#u108-59,#u108-61,#u108-66,#u108-67,#u108-70,#u108-73,#u108-76,#u108-79,#u108-80
+{
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

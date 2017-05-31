@@ -1,0 +1,22 @@
+<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.leninalbertop.com.ve" ftp_rootfolder="/demo/cookie" exportTarget="FTP" resolutions="1x" timestamp="1413062776399">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="cookie.css" crc="184486091" ref="cookie"/>
+    <file name="iefonts_cookie.css" crc="3956641856" ref="cookie"/>
+    <file name="index.css" crc="511665205" ref="index"/>
+    <file name="iefonts_index.css" crc="4148286783" ref="index"/>
+    <file name="politicas-de-cookie-demo2.css" crc="120031401" ref="politicas-de-cookie-demo2"/>
+    <file name="iefonts_politicas-de-cookie-demo2.css" crc="4132499452" ref="politicas-de-cookie-demo2"/>
+  </folder>
+  <folder name="assets">
+    <file name="usocookie.js" crc="4259831682" mt="1413048335000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:cookie:politicas-de-cookie-demo2"/>
+    <file name="museutils.js" crc="4050293121" ref="index:cookie:politicas-de-cookie-demo2"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index:cookie:politicas-de-cookie-demo2"/>
+  </folder>
+  <file name="index.html" crc="4021057564" mt="1413062699390" redirect="true"/>
+  <file name="cookie.html" crc="440720264" mt="1413051991376" redirect="true"/>
+  <file name="politicas-de-cookie-demo2.html" crc="4009437535" mt="1413062720639" redirect="true"/>
+</manifest>

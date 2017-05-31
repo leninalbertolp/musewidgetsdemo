@@ -1,0 +1,160 @@
+.version.index /* version checker */
+{
+	color: #00001E;
+	background-color: #7F6435;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.54999999999995px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 114px;
+	padding-bottom: 62px;
+}
+
+#u72-4
+{
+	z-index: 2;
+	min-height: 62px;
+	background-color: transparent;
+	line-height: 58px;
+	font-size: 48px;
+	color: #2A2828;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+}
+
+#u72-4-bw
+{
+	z-index: 2;
+	min-height: 62px;
+	height: 62px;
+}
+
+#pu141
+{
+	width: 0.01px;
+	margin-left: -73px;
+	margin-top: 31px;
+}
+
+#u141
+{
+	z-index: 89;
+	width: 50px;
+	min-height: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u74-4
+{
+	z-index: 6;
+	width: 940px;
+	min-height: 22px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #2A2828;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 73px;
+}
+
+#u119-79
+{
+	z-index: 10;
+	width: 920px;
+	min-height: 933px;
+	background-color: transparent;
+	margin-left: 20px;
+	position: relative;
+}
+
+#u119-2,#u119-3
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u119-7
+{
+	text-align: center;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u119-13
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u119-33
+{
+	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u119-26,#u119-29,#u119-32
+{
+	color: #2A2828;
+}
+
+#u119-39
+{
+	font-weight: 700;
+}
+
+#u119-8,#u119-10,#u119-11,#u119-14,#u119-16,#u119-17,#u119-19,#u119-20,#u119-22,#u119-23,#u119-25,#u119-34,#u119-36,#u119-37,#u119-41,#u119-43,#u119-44,#u119-48,#u119-50,#u119-52,#u119-54,#u119-55,#u119-57,#u119-62,#u119-63,#u119-66,#u119-69,#u119-72,#u119-75,#u119-76
+{
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,19 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" ftp_hostname="ftp.leninalbertop.com.ve" ftp_rootfolder="/demo/barras-habilidades" exportTarget="FTP" resolutions="1x" timestamp="1412096275626">
+  <folder name="css">
+    <file name="site_global.css" crc="514663322"/>
+    <file name="master_a-p_g_-maestra.css" crc="4155322340" ref="index"/>
+    <file name="index.css" crc="3946252464" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="4094189984" ref="index"/>
+    <file name="musecc.jpg" crc="4040596008" ref="index"/>
+    <file name="img-u117.png" crc="4186605952" ref="index"/>
+  </folder>
+  <file name="index.html" crc="373846260" mt="1412096000160" redirect="true"/>
+</manifest>

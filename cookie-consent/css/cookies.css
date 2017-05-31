@@ -1,0 +1,160 @@
+.version.cookies /* version checker */
+{
+	color: #00000F;
+	background-color: #888C57;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 376px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 62px 20px;
+}
+
+#u191-80
+{
+	z-index: 2;
+	width: 920px;
+	min-height: 933px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u191-2
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-3
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-7
+{
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-13
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-14
+{
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-33
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-26,#u191-29,#u191-32
+{
+	color: #2A2828;
+}
+
+#u191-39
+{
+	font-weight: 700;
+}
+
+#u191-57
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-8,#u191-10,#u191-16,#u191-17,#u191-19,#u191-20,#u191-22,#u191-23,#u191-25,#u191-34,#u191-36,#u191-37,#u191-41,#u191-43,#u191-44,#u191-48,#u191-50,#u191-52,#u191-54,#u191-55,#u191-58,#u191-63
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-4,#u191-27,#u191-30,#u191-45,#u191-60
+{
+	color: #E91E63;
+}
+
+#u191-67,#u191-70,#u191-73,#u191-76
+{
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u191-65,#u191-68,#u191-71,#u191-74
+{
+	color: #E91E63;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-11,#u191-64,#u191-77
+{
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u191-78
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

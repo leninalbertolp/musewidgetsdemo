@@ -1,0 +1,19 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" ftp_hostname="ftp.leninalbertop.com.ve" ftp_rootfolder="/demo/widget-pinterest" exportTarget="FTP" resolutions="1x" timestamp="1412131784773">
+  <folder name="css">
+    <file name="site_global.css" crc="499693338"/>
+    <file name="master_a-p_g_-maestra.css" crc="3962745041" ref="index"/>
+    <file name="index.css" crc="370836968" ref="index"/>
+    <file name="iefonts_index.css" crc="3792487250" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4094189984" ref="index"/>
+    <file name="img.jpg" crc="378754135" ref="index"/>
+    <file name="img2.jpg" crc="14603681" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4068738498" mt="1412131763529" redirect="true"/>
+</manifest>

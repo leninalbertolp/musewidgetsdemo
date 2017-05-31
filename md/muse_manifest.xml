@@ -1,0 +1,19 @@
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.enfasebeta.com.ve" ftp_rootfolder="//demo/md" exportTarget="FTP" resolutions="1x" timestamp="1425158462300">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="144534600" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="md.mp4" crc="3856202397" mt="1425153860288"/>
+    <file name="md.ogv" crc="137298379" mt="1425154547545"/>
+    <file name="md.webm" crc="3953847182" mt="1425154746686"/>
+    <file name="poster.png" crc="265148483" mt="1425155747512"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+  </folder>
+  <file name="index.html" crc="277597318" mt="1425158352341" redirect="true"/>
+</manifest>

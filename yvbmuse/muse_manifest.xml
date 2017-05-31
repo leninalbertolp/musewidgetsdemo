@@ -1,0 +1,20 @@
+<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.leninalbertop.com.ve" ftp_rootfolder="/demo/yvbmuse" exportTarget="FTP" resolutions="1x" timestamp="1412682959531">
+  <folder name="css">
+    <file name="site_global.css" crc="4087636540"/>
+    <file name="index.css" crc="3975113415" ref="index"/>
+    <file name="iefonts_index.css" crc="535022198" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="musebackground.js" crc="494147157" mt="1412631890000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index"/>
+    <file name="museutils.js" crc="4050293121" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4094189984" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4086184444" mt="1412682713668" redirect="true"/>
+</manifest>

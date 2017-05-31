@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html class="html" lang="es-ES">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="Página de demostración del Widget Barras de Habilidades para Adobe Muse."/>
+  <meta name="generator" content="2014.1.1.276"/>
+  <link rel="shortcut icon" href="images/inicio-favicon.ico?4094189984"/>
+  <title>Barras de Habilidades &#45; Adobe Muse</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?514663322"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-p_g_-maestra.css?4155322340"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3946252464" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lancelot:n4:all;cooper-black-std:n4:all;raleway:n5:all.js" type="text/javascript">\x3C/script>');
+</script>
+    <!--custom head HTML-->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45344444-8', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+  <!--HTML Widget code-->
+  
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+			<style type="text/css">
+				.skillbar {
+				position:relative;
+				display:block;
+				margin-bottom:15px;
+				width:100%;
+				background:#eee;
+				height:35px;
+				border-radius:3px;
+				-moz-border-radius:3px;
+				-webkit-border-radius:3px;
+				-webkit-transition:0.4s linear;
+				-moz-transition:0.4s linear;
+				-ms-transition:0.4s linear;
+				-o-transition:0.4s linear;
+				transition:0.4s linear;
+				-webkit-transition-property:width, background-color;
+				-moz-transition-property:width, background-color;
+				-ms-transition-property:width, background-color;
+				-o-transition-property:width, background-color;
+				transition-property:width, background-color;
+				}
+				
+			    .skillbar-title {
+				position:absolute;
+				top:0;
+				left:0;
+			    width:auto;
+				font-weight:bold;
+				font-size:13px;
+				color:#ffffff;
+				background:#6adcfa;
+				-webkit-border-top-left-radius:3px;
+				-webkit-border-bottom-left-radius:4px;
+				-moz-border-radius-topleft:3px;
+				-moz-border-radius-bottomleft:3px;
+				border-top-left-radius:3px;
+				border-bottom-left-radius:3px;
+			  	}
+
+				.skillbar-title span {
+				display:block;
+				background:rgba(0, 0, 0, 0.1);
+				padding:0 5px;
+				height:35px;
+				line-height:35px;
+				-webkit-border-top-left-radius:3px;
+				-webkit-border-bottom-left-radius:3px;
+				-moz-border-radius-topleft:3px;
+				-moz-border-radius-bottomleft:3px;
+				border-top-left-radius:3px;
+				border-bottom-left-radius:3px;
+				}
+
+			 	.skillbar-bar {
+				height:35px;
+				width:0px;
+				background:#6adcfa;
+				border-radius:3px;
+				-moz-border-radius:3px;
+				-webkit-border-radius:3px;
+				}
+
+				.skill-bar-percent {
+				position:absolute;
+				right:10px;
+				top:0;
+				font-size:11px;
+				height:35px;
+				line-height:35px;
+				color:#ffffff;
+				color:rgba(0, 0, 0, 0.4);
+				}	
+
+			</style>	
+		
+ </head>
+ <body>
+
+  <!--HTML Widget code-->
+  
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+  
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="browser_width" id="u224-bw">
+     <div class="shadow pinned-colelem" id="u224"><!-- simple frame --></div>
+    </div>
+    <div class="clip_frame pinned-colelem" id="u226"><!-- image -->
+     <img class="block" id="u226_img" src="images/musecc.jpg" alt="" width="52" height="51" data-ice-editable="image" data-muse-uid="U226" data-muse-src="images/musecc.jpg"/>
+    </div>
+    <div class="clearfix pinned-colelem" id="u225-4" data-ice-editable="html" data-ice-options="disableImageResize,none" data-muse-uid="U225"><!-- content -->
+     <h1>Barra de Habilidades</h1>
+    </div>
+    <div class="clearfix pinned-colelem" id="u228-4" data-ice-editable="html" data-ice-options="disableImageResize,none" data-muse-uid="U228"><!-- content -->
+     <h1>Adobe Muse CC 2014</h1>
+    </div>
+    <a class="nonblock nontext comparte-para-descargar clearfix pinned-colelem" id="u229-4" href="http://www.leninalbertop.com.ve/blog/barra-de-habilidades-para-adobe-muse/" data-ice-editable="html" data-ice-options="disableImageResize,none" data-muse-uid="U229"><!-- content --><h1>Regresar al Artículo</h1></a>
+    <div class="clearfix colelem" id="u96-4" data-ice-editable="html" data-ice-options="disableImageResize,none" data-muse-uid="U96"><!-- content -->
+     <p>Demo</p>
+    </div>
+    <div class="colelem" id="u210"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="ppu97"><!-- group -->
+     <div class="clearfix grpelem" id="pu97"><!-- column -->
+      <div class="colelem" id="u97"><!-- custom html -->
+       
+			<div class="skillbar clearfix " data-percent="90%">
+				<div class="skillbar-title" style="background: #d35400;"><span class="fa fa-html5 fa-lg"> HTML 5</span></div>
+				<div class="skillbar-bar" style="background: #e67e22;"></div>
+				<div class="skill-bar-percent">90%</div>
+			</div>	
+		
+</div>
+      <div class="colelem" id="u99"><!-- custom html -->
+       
+			<div class="skillbar clearfix " data-percent="80%">
+				<div class="skillbar-title" style="background: #2196f3;"><span class="fa fa-css3 fa-lg"> CSS 3</span></div>
+				<div class="skillbar-bar" style="background: #64b5f6;"></div>
+				<div class="skill-bar-percent">80%</div>
+			</div>	
+		
+</div>
+      <div class="colelem" id="u101"><!-- custom html -->
+       
+			<div class="skillbar clearfix " data-percent="75%">
+				<div class="skillbar-title" style="background: #cddc39;"><span class="fa fa-flask fa-lg"> JavaScript</span></div>
+				<div class="skillbar-bar" style="background: #dce775;"></div>
+				<div class="skill-bar-percent">75%</div>
+			</div>	
+		
+</div>
+      <div class="colelem" id="u103"><!-- custom html -->
+       
+			<div class="skillbar clearfix " data-percent="60%">
+				<div class="skillbar-title" style="background: #4caf50;"><span class="fa fa-code fa-lg"> PHP</span></div>
+				<div class="skillbar-bar" style="background: #81c784;"></div>
+				<div class="skill-bar-percent">60%</div>
+			</div>	
+		
+</div>
+      <div class="colelem" id="u105"><!-- custom html -->
+       
+			<div class="skillbar clearfix " data-percent="50%">
+				<div class="skillbar-title" style="background: #843791;"><span class="fa fa-database fa-lg"> MySQL</span></div>
+				<div class="skillbar-bar" style="background: #ba68c8;"></div>
+				<div class="skill-bar-percent">50%</div>
+			</div>	
+		
+</div>
+     </div>
+     <img class="grpelem" id="u117" alt="" width="406" height="288" src="images/img-u117.png"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem" id="pu213-4"><!-- group -->
+     <div class="clearfix grpelem" id="u213-4" data-ice-editable="html" data-ice-options="disableImageResize,none" data-muse-uid="U213"><!-- content -->
+      <p>Como Usar</p>
+     </div>
+     <div class="grpelem" id="u218"><!-- custom html -->
+      
+<div class="fb-like" data-href="http://http://www.leninalbertop.com.ve/blog/barra-de-habilidades-para-adobe-muse/" data-send="false" data-width="121" data-show-faces="false" data-colorscheme="light" data-layout="button_count" data-action="like"></div>
+
+</div>
+     <div class="grpelem" id="u220"><!-- custom html -->
+      
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="true" data-lang="es" data-url="http://www.leninalbertop.com.ve/blog/barra-de-habilidades-para-adobe-muse/" data-size="medium" data-text="Mira que Widget #AdobeMuse más interesante #BarrasDeHabilidadesMuse:" data-related="leninalbertop"></a>
+
+</div>
+     <div class="grpelem" id="u222"><!-- custom html -->
+      
+<div class="g-plusone" data-action="share" data-size="standard" data-annotation="bubble" data-width="106" data-href="http://http://www.leninalbertop.com.ve/blog/barra-de-habilidades-para-adobe-muse/"></div>
+
+</div>
+    </div>
+    <div class="colelem" id="u212"><!-- simple frame --></div>
+    <div class="colelem" id="u215"><!-- custom html -->
+     <iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/Zy8T4vgg_i0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+    <div class="verticalspacer"></div>
+    <div class="browser_width colelem" id="u163-bw">
+     <div id="u163"><!-- group -->
+      <div class="clearfix" id="u163_align_to_page">
+       <div class="comparte-para-descargar clearfix grpelem" id="u164-6"><!-- content -->
+        <p><a class="nonblock" href="http://www.leninalbertop.com.ve">www.leninalbertop.com.ve</a>&nbsp;copyright ©2014 Lenin Peña &#45; Desarrollador Frontend</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?4136605575" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?172956391" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+  
+  <!--HTML Widget code-->
+  
+		<script type="text/javascript">
+        jQuery(document).ready(function(){
+		jQuery('.skillbar').each(function(){
+		jQuery(this).find('.skillbar-bar').animate({
+			width:jQuery(this).attr('data-percent')
+		},3000);
+	});
+});
+		</script>	
+		
+			
+		
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<script type="text/javascript">
+      window.___gcfg = {
+        lang: 'es'
+      };
+
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+</script>
+
+   </body>
+</html>

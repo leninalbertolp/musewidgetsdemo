@@ -1,0 +1,22 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" ftp_hostname="ftp://ftp.enfasebeta.com.ve" ftp_rootfolder="/demo/font-awesome" exportTarget="FTP" resolutions="1x" timestamp="1422401424282" iceMarkupVersion="2">
+  <folder name="css">
+    <file name="site_global.css" crc="54102638"/>
+    <file name="master_a-p_g_-maestra.css" crc="3850604036" ref="index"/>
+    <file name="index.css" crc="3878196626" ref="index"/>
+    <file name="iefonts_index.css" crc="58511005" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index"/>
+    <file name="museutils.js" crc="3777594392" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="474087315" ref="index"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
+    <file name="touchswipe.js" crc="100683906" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4000097719" ref="index"/>
+  </folder>
+  <file name="index.html" crc="74250717" mt="1422401194152" redirect="true"/>
+</manifest>

@@ -1,0 +1,18 @@
+<manifest alg="2" build="569" opt="false" iceEnabled="true" ftp_hostname="ftp://ftp.leninalbertop.com.ve" ftp_rootfolder="/demo/skype-button" exportTarget="FTP" resolutions="1x" timestamp="1414325958138" iceMarkupVersion="2">
+  <folder name="css">
+    <file name="site_global.css" crc="54102638"/>
+    <file name="master_a-p_g_-maestra.css" crc="108157259" ref="index"/>
+    <file name="index.css" crc="295313753" ref="index"/>
+    <file name="iefonts_index.css" crc="3918175097" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index"/>
+    <file name="museutils.js" crc="4050293121" ref="index"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="skype-button-ejemp.jpg" crc="4220492599" ref="index"/>
+    <file name="inicio-favicon.ico" crc="30677168" ref="index"/>
+  </folder>
+  <file name="index.html" crc="372264509" mt="1414324765902" redirect="true"/>
+</manifest>

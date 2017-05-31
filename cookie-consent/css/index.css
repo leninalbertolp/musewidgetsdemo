@@ -1,0 +1,221 @@
+.version.index /* version checker */
+{
+	color: #000010;
+	background-color: #09EB9C;
+}
+
+.html
+{
+	background-color: #EEEEEE;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.5000000000002px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 62px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u72-4
+{
+	z-index: 2;
+	width: 960px;
+	min-height: 62px;
+	background-color: transparent;
+	color: #3F51B5;
+	font-size: 45px;
+	text-align: center;
+	line-height: 54px;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#pu290
+{
+	width: 0.01px;
+	margin-left: -126px;
+	margin-top: 44px;
+}
+
+#u290
+{
+	z-index: 90;
+	width: 25px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+}
+
+#u183-4
+{
+	z-index: 86;
+	width: 960px;
+	min-height: 46px;
+	background-color: transparent;
+	color: #E91E63;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	font-family: raleway, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	left: 126px;
+}
+
+#u119-80
+{
+	z-index: 6;
+	width: 920px;
+	min-height: 933px;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u119-2
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-3
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-7
+{
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-13
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-14
+{
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-33
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-26,#u119-29,#u119-32
+{
+	color: #2A2828;
+}
+
+#u119-39
+{
+	font-weight: 700;
+}
+
+#u119-57
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #3F51B5;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-8,#u119-10,#u119-16,#u119-17,#u119-19,#u119-20,#u119-22,#u119-23,#u119-25,#u119-34,#u119-36,#u119-37,#u119-41,#u119-43,#u119-44,#u119-48,#u119-50,#u119-52,#u119-54,#u119-55,#u119-58,#u119-63
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-4,#u119-27,#u119-30,#u119-45,#u119-60
+{
+	color: #E91E63;
+}
+
+#u119-67,#u119-70,#u119-73,#u119-76
+{
+	color: #2A2828;
+	font-family: raleway, sans-serif;
+	font-weight: 500;
+}
+
+#u119-65,#u119-68,#u119-71,#u119-74
+{
+	color: #E91E63;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-11,#u119-64,#u119-77
+{
+	color: #2A2828;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u119-78
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

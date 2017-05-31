@@ -1,0 +1,18 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434374950539">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="139856742" ref="index"/>
+    <file name="terminal.css" crc="108533866" ref="terminal"/>
+  </folder>
+  <folder name="assets">
+    <file name="typewriter.min.js" crc="4098858721" mt="1432980730000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:terminal"/>
+    <file name="museutils.js" crc="521960461" ref="index:terminal"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:terminal"/>
+    <file name="pie.js" crc="3827607177" ref="terminal"/>
+  </folder>
+  <file name="index.html" crc="437065756" mt="1434373193065" redirect="true"/>
+  <file name="terminal.html" crc="3855038147" mt="1434373202230" redirect="true"/>
+</manifest>

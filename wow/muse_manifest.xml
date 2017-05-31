@@ -1,0 +1,29 @@
+<manifest alg="2" build="44" opt="false" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.enfasebeta.com.ve" ftp_rootfolder="/demo/wow" exportTarget="FTP" resolutions="1x" timestamp="1425944651048">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="3939597559" ref="index"/>
+    <file name="iefonts_index.css" crc="4243134701" ref="index"/>
+    <file name="slide.css" crc="362356011" ref="slide"/>
+  </folder>
+  <folder name="fonts">
+    <file name="muse-icon-font.woff" crc="3856750426"/>
+    <file name="muse-icon-font.eot" crc="3915778331"/>
+    <file name="muse-icon-font.svg" crc="472712140"/>
+  </folder>
+  <folder name="assets">
+    <file name="wow.min.js" crc="168934992" mt="1421235726000"/>
+    <file name="animate.min.css" crc="88194346" mt="1425499678000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:slide"/>
+    <file name="museutils.js" crc="479751881" ref="index:slide"/>
+    <file name="pie.js" crc="3827607177" ref="index:slide"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:slide"/>
+    <file name="webpro.js" crc="3930024250" ref="slide"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="slide"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="slide"/>
+    <file name="touchswipe.js" crc="4151298246" ref="slide"/>
+  </folder>
+  <file name="index.html" crc="3234744" mt="1425944498909" redirect="true"/>
+  <file name="slide.html" crc="439636752" mt="1425944503742" redirect="true"/>
+</manifest>

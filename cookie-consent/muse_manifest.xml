@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.leninalbertop.com.ve" resolutions="1x" timestamp="1444045623550">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="cookie-consent-demo2.css" crc="74770038" ref="cookie-consent-demo2"/>
+    <file name="iefonts_cookie-consent-demo2.css" crc="327653429" ref="cookie-consent-demo2"/>
+    <file name="index.css" crc="269085596" ref="index"/>
+    <file name="iefonts_index.css" crc="4104610" ref="index"/>
+    <file name="cookies.css" crc="260607063" ref="cookies"/>
+    <file name="iefonts_cookies.css" crc="362920942" ref="cookies"/>
+  </folder>
+  <folder name="assets">
+    <file name="cookieconsent.js" crc="168242237" seo="true" mt="1443807752000"/>
+    <file name="cc_bottom.css" crc="3832321665" seo="true" mt="1443631366000"/>
+    <file name="cc_top.css" crc="3919654041" seo="true" mt="1443631376000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:cookies:cookie-consent-demo2"/>
+    <file name="museutils.js" crc="275725342" ref="index:cookies:cookie-consent-demo2"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:cookies:cookie-consent-demo2"/>
+  </folder>
+  <file name="index.html" crc="474285852" seo="true" mt="1444045345559" redirect="true"/>
+  <file name="cookies.html" crc="302771852" seo="true" mt="1443788858590" redirect="true"/>
+  <file name="cookie-consent-demo2.html" crc="3829156786" seo="true" mt="1444045413934" redirect="true"/>
+</manifest>
