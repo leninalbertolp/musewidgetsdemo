@@ -1,6 +1,6 @@
 # Demos de Widgets para Adobe Muse
 
-Este repositorio contiene las páginas web que muestran las demos de los widgets para Adobe Muse. Si desea descargar los plugins como tal por favor visite el siguiente post 👉 [Adobe Muse Widgets](https://www.leninalbertop.com.ve/adobe-muse-widgets).
+Este repositorio contiene las páginas web que muestran las demos de los widgets para Adobe Muse. Si desea descargar los plugins como tal por favor visite el siguiente post 👉 [Adobe Muse Widgets](https://www.leninalbertop.com.ve/adobe-muse-widgets/).
 
 * [Barras de habilidades](https://leninalbertolp.github.io/musewidgetsdemo/barras-habilidades/)
 * [Button funny](https://leninalbertolp.github.io/musewidgetsdemo/buttonfunny/)
